@@ -3,7 +3,7 @@
 > Tutorial de como usar GitFlow
 
 ## Fluxo do Gitflow
-![Fluxo do Gitflow](assets\images\git-flow.png)
+![Fluxo do Gitflow](assets/images/git-flow.png)
 
 ## Comando para usar o Gitflow
 
