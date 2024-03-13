@@ -15,7 +15,7 @@ git flow init
 ```git
 git flow feature start NOME
 ```
-**Pull da feature para o github:**
+**Publicar a feature para o github:**
 ```git
 git flow feature publish NOME
 ```
